@@ -1,0 +1,14 @@
+f
+Monster Roll,15.05
+King Samurai,16.55
+Panko Roll,9.55
+Tiger Roll,11.95
+King Kong Roll,14.95
+Japan Roll,12.95
+d
+Green Tea,8.95
+Oolong Tea,7.85
+Shochu,199.99
+Sake,57.99
+Umeshu,77.88
+Kombucha,12.75
